@@ -1,0 +1,1 @@
+Dashboard for my personal finances which I log using ledger-cli.
