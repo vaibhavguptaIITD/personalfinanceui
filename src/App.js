@@ -6,7 +6,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <BalanceGraph/>
+        <BalanceGraph account="Assets"/>
+        <BalanceGraph account="Expenses"/>
+        <BalanceGraph account="Income"/>
       </div>
     );
   }
