@@ -8,7 +8,6 @@ class MainContent extends Component {
     return (
     	<div className="main">
     		<Balance/>
-     		<h1 className="page-header"></h1>
      	</div>
     );
   }
